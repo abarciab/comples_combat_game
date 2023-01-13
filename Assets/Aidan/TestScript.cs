@@ -15,6 +15,6 @@ public class TestScript : MonoBehaviour
 
     void TakeDamage()
     {
-        print("ow");
+        //print("ow");
     }
 }
